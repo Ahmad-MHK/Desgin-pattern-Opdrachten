@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\ahmad\\downloads\\001 - strategypattern\\strategypattern\\interfaces\\flybehavior\\flybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:interfaces\\flybehavior\\flybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\ahmad\\downloads\\001 - strategypattern\\strategypattern\\ducks\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:ducks\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\ahmad\\downloads\\001 - strategypattern\\strategypattern\\interfaces\\swimbehavior\\swimbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:interfaces\\swimbehavior\\swimbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\ahmad\\downloads\\001 - strategypattern\\strategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\ahmad\\downloads\\001 - strategypattern\\strategypattern\\interfaces\\quackbehavior\\quackbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:interfaces\\quackbehavior\\quackbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\ahmad\\downloads\\001 - strategypattern\\strategypattern\\ducks\\rubberduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:ducks\\rubberduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\ahmad\\downloads\\001 - strategypattern\\strategypattern\\ducks\\redheadduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:ducks\\redheadduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\ahmad\\downloads\\001 - strategypattern\\strategypattern\\ducks\\mallardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:ducks\\mallardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|c:\\users\\ahmad\\downloads\\001 - strategypattern\\strategypattern\\ducks\\decoyduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49C5B581-80F3-4B6A-9B5A-834C55F20079}|StrategyPattern.csproj|solutionrelative:ducks\\decoyduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:37:12.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuackBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Interfaces\\QuackBehavior\\QuackBehavior.cs",
+              "RelativeDocumentMoniker": "Interfaces\\QuackBehavior\\QuackBehavior.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Interfaces\\QuackBehavior\\QuackBehavior.cs",
+              "RelativeToolTip": "Interfaces\\QuackBehavior\\QuackBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:37:00.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RubberDuck.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Ducks\\RubberDuck.cs",
+              "RelativeDocumentMoniker": "Ducks\\RubberDuck.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Ducks\\RubberDuck.cs",
+              "RelativeToolTip": "Ducks\\RubberDuck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:36:56.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedheadDuck.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Ducks\\RedheadDuck.cs",
+              "RelativeDocumentMoniker": "Ducks\\RedheadDuck.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Ducks\\RedheadDuck.cs",
+              "RelativeToolTip": "Ducks\\RedheadDuck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:36:54.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MallardDuck.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Ducks\\MallardDuck.cs",
+              "RelativeDocumentMoniker": "Ducks\\MallardDuck.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Ducks\\MallardDuck.cs",
+              "RelativeToolTip": "Ducks\\MallardDuck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:36:53.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DecoyDuck.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Ducks\\DecoyDuck.cs",
+              "RelativeDocumentMoniker": "Ducks\\DecoyDuck.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Ducks\\DecoyDuck.cs",
+              "RelativeToolTip": "Ducks\\DecoyDuck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:36:48.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Ducks\\Duck.cs",
+              "RelativeDocumentMoniker": "Ducks\\Duck.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Ducks\\Duck.cs",
+              "RelativeToolTip": "Ducks\\Duck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:36:32.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwimBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Interfaces\\SwimBehavior\\SwimBehavior.cs",
+              "RelativeDocumentMoniker": "Interfaces\\SwimBehavior\\SwimBehavior.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Interfaces\\SwimBehavior\\SwimBehavior.cs",
+              "RelativeToolTip": "Interfaces\\SwimBehavior\\SwimBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:34:15.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlyBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Interfaces\\FlyBehavior\\FlyBehavior.cs",
+              "RelativeDocumentMoniker": "Interfaces\\FlyBehavior\\FlyBehavior.cs",
+              "ToolTip": "C:\\Users\\ahmad\\Downloads\\001 - StrategyPattern\\StrategyPattern\\Interfaces\\FlyBehavior\\FlyBehavior.cs",
+              "RelativeToolTip": "Interfaces\\FlyBehavior\\FlyBehavior.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T12:30:44.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
