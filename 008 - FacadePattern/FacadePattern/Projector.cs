@@ -16,26 +16,27 @@ namespace FacadePattern
         public void SetInput(DvdPlayer dvdPlayer)
         {
             this._dvdPlayer = dvdPlayer;
+            Console.WriteLine("Projector input set to DVD Player");
         }
 
         public void On()
         {
-
+            Console.WriteLine("Projector on");
         }
 
         public void Off()
         {
-
+            Console.WriteLine("Projector off");
         }
 
         public void TvMode()
         {
-
+            Console.WriteLine("Projector TV mode");
         }
 
         public void WideScreenMode()
         {
-
+            Console.WriteLine("Projector widescreen mode");
         }
     }
 }

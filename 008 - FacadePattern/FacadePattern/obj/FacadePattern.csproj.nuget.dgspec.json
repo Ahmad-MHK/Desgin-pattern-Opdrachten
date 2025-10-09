@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rnieuwkoop\\OneDrive - ROC Nijmegen\\Software Development\\API 3 - Design Patterns\\Source code\\DesignPatterns\\FacadePattern\\FacadePattern.csproj": {}
+    "C:\\Roc\\Pattern\\Desgin-pattern-Opdrachten\\008 - FacadePattern\\FacadePattern\\FacadePattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rnieuwkoop\\OneDrive - ROC Nijmegen\\Software Development\\API 3 - Design Patterns\\Source code\\DesignPatterns\\FacadePattern\\FacadePattern.csproj": {
+    "C:\\Roc\\Pattern\\Desgin-pattern-Opdrachten\\008 - FacadePattern\\FacadePattern\\FacadePattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rnieuwkoop\\OneDrive - ROC Nijmegen\\Software Development\\API 3 - Design Patterns\\Source code\\DesignPatterns\\FacadePattern\\FacadePattern.csproj",
+        "projectUniqueName": "C:\\Roc\\Pattern\\Desgin-pattern-Opdrachten\\008 - FacadePattern\\FacadePattern\\FacadePattern.csproj",
         "projectName": "FacadePattern",
-        "projectPath": "C:\\Users\\rnieuwkoop\\OneDrive - ROC Nijmegen\\Software Development\\API 3 - Design Patterns\\Source code\\DesignPatterns\\FacadePattern\\FacadePattern.csproj",
-        "packagesPath": "C:\\Users\\rnieuwkoop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rnieuwkoop\\OneDrive - ROC Nijmegen\\Software Development\\API 3 - Design Patterns\\Source code\\DesignPatterns\\FacadePattern\\obj\\",
+        "projectPath": "C:\\Roc\\Pattern\\Desgin-pattern-Opdrachten\\008 - FacadePattern\\FacadePattern\\FacadePattern.csproj",
+        "packagesPath": "C:\\Users\\ahmad\\.nuget\\packages\\",
+        "outputPath": "C:\\Roc\\Pattern\\Desgin-pattern-Opdrachten\\008 - FacadePattern\\FacadePattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rnieuwkoop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

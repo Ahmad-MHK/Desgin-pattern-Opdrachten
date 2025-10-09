@@ -18,3 +18,18 @@ C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design 
 C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.pdb
 C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.genruntimeconfig.cache
 C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\obj\Debug\net6.0\ref\FacadePattern.dll
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\bin\Debug\net6.0\FacadePattern.exe
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\bin\Debug\net6.0\FacadePattern.deps.json
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\bin\Debug\net6.0\FacadePattern.runtimeconfig.json
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\bin\Debug\net6.0\FacadePattern.dll
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\bin\Debug\net6.0\FacadePattern.pdb
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.AssemblyInfoInputs.cache
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.AssemblyInfo.cs
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.csproj.CoreCompileInputs.cache
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.sourcelink.json
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.dll
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\obj\Debug\net6.0\refint\FacadePattern.dll
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.pdb
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\obj\Debug\net6.0\FacadePattern.genruntimeconfig.cache
+c:\Roc\Pattern\Desgin-pattern-Opdrachten\008 - FacadePattern\FacadePattern\obj\Debug\net6.0\ref\FacadePattern.dll
